@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d57c4cd2-6bb1-4046-b241-35cdc40b147b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/happy-icons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/happy-icons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/happy-icons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/nunito/Nunito-Bold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/nunito/Nunito-Bold.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/nunito/Nunito-Regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/nunito/Nunito-Regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/nunito/nunito-regular-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/nunito/nunito-regular-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/admin/art1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/admin/art2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/admin/c-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/admin/crossdomain-video-cover.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/admin/dashboard-header.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/admin/floating-video-cover.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/admin/icon1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/admin/pa-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/admin/pa-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/admin/pa-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/admin/translate-video-cover.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/placeholder.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/vendor/slick/ajax-loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/vendor/slick/fonts/slick.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/vendor/slick/fonts/slick.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/vendor/slick/fonts/slick.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/happy-elementor-addons.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/admin/css/admin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/admin/css/admin.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/admin/css/dashboard.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/admin/css/dashboard.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/admin/css/editor.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/admin/css/editor.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/admin/js/admin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/admin/js/admin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/admin/js/dashboard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/admin/js/dashboard.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/admin/js/editor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/admin/js/editor.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/main.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/widgets/badge.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/widgets/btn.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/widgets/card.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/widgets/common.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/widgets/dual-btn.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/widgets/flip-box.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/widgets/gallery-filter.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/widgets/gradient-heading.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/widgets/icon-box.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/widgets/image-comparison.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/widgets/image-grid.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/widgets/infobox.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/widgets/justified-gallery.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/widgets/logo-grid.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/widgets/member.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/widgets/number.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/widgets/pricing-table.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/widgets/review.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/widgets/skills.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/widgets/slider-carousel.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/widgets/steps-flow.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/widgets/testimonial.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/happy-icons.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/happy-icons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/nunito/OFL.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/nunito/stylesheet.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/style.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/admin/comment-square.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/admin/cross-domain.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/admin/cross-game.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/admin/faq.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/admin/film.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/admin/halogo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/admin/knowledge.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/admin/nesting.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/admin/newspaper.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/admin/preset.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/admin/review.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/imgs/admin/support-call.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/happy-addons.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/happy-addons.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/vendor/anime/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/vendor/anime/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/vendor/anime/lib/anime.es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/vendor/anime/lib/anime.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/vendor/anime/lib/anime.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/vendor/jquery-numerator/jquery-numerator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/vendor/jquery-numerator/jquery-numerator.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/vendor/jquery.isotope.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/vendor/justifiedGallery/css/justifiedGallery.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/vendor/justifiedGallery/js/jquery.justifiedGallery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/vendor/magnific-popup/jquery.magnific-popup.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/vendor/magnific-popup/magnific-popup.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/vendor/slick/fonts/slick.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/vendor/slick/slick-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/vendor/slick/slick-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/vendor/slick/slick-theme.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/vendor/slick/slick-theme.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/vendor/slick/slick.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/vendor/slick/slick.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/vendor/slick/slick.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/vendor/slick/slick.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/vendor/slick/slick.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/vendor/slick/slick.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/vendor/twentytwenty/css/twentytwenty.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/vendor/twentytwenty/js/jquery.event.move.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/vendor/twentytwenty/js/jquery.twentytwenty.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/base.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/base/widget-base.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/admin-bar.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/assets-cache.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/assets-manager.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/cache-manager.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/class.communicator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/dashboard.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/extensions-manager.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/finder.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/icons-manager.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/updater.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/widgets-cache.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/widgets-manager.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controls/foreground.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensions/background-overlay.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensions/happy-effects.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inc/functions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/admin/dashboard-home.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/admin/dashboard-main.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/admin/dashboard-pro.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/admin/dashboard-widgets.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/appsero/src/Client.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/appsero/src/Insights.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/appsero/src/License.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/appsero/src/Updater.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/widgets/calderaform/widget.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/widgets/calendly/widget.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/widgets/card/widget.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/widgets/carousel/widget.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/widgets/cf7/widget.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/widgets/dual-button/widget.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/widgets/flip-box/widget.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/widgets/gradient-heading/widget.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/widgets/icon-box/widget.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/widgets/image-compare/widget.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/widgets/image-grid/widget.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/widgets/infobox/widget.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/widgets/justified-gallery/widget.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/widgets/logo-grid/widget.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/widgets/member/widget.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/widgets/ninjaform/widget.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/widgets/number/widget.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/widgets/pricing-table/widget.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/widgets/review/widget.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/widgets/skills/widget.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/widgets/slider/widget.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/widgets/step-flow/widget.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/widgets/testimonial/widget.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/widgets/weform/widget.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/widgets/wpform/widget.php" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="happy-elementor-addons" type="b2602c69:ProjectViewProjectNode" />
+              <item name="happy-elementor-addons" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d57c4cd2-6bb1-4046-b241-35cdc40b147b" name="Default" comment="" />
+      <created>1584072590009</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584072590009</updated>
+      <workItem from="1584072591392" duration="79000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="79000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>
